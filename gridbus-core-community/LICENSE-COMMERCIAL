@@ -1,0 +1,19 @@
+# GridBus Commercial License
+
+The `gridbus-core-community` project is released under the **GNU Affero General Public License v3.0 (AGPLv3)**. 
+
+For commercial entities (e.g., Power Equipment OEMs, Substation Integrators, proprietary software vendors) that wish to integrate GridBus into closed-source products or bypass the requirements of the AGPLv3, a **Commercial License** is required.
+
+## Why a Commercial License?
+The AGPLv3 requires that any modifications or larger works that incorporate this software and are distributed or interacted with over a network must also be open-sourced under the AGPLv3.
+
+If your organization cannot comply with this open-source requirement, you must purchase a Commercial License.
+
+## Purchasing a License
+Commercial licenses, which also grant access to the **Enterprise Pro SDK** (featuring IEEE 1588 PTP, DPDK Acceleration, and IEC 61850-9-2 SV Demuxer), are available via Polar.sh:
+
+**https://polar.sh/GridBus/subscriptions**
+
+For enterprise volume pricing or custom SLAs, please contact: `byemir@live.com`
+
+Copyright (c) 2026 Emirhan CAMCI. All rights reserved.
