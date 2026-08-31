@@ -53,6 +53,6 @@ DealShield follows an **Open-Core** model.
 | **Validation / Support**| Community Forums | Offline Ed25519 License + SLA |
 
 ### 🛒 Ready for Production?
-**[Unlock the Fund Enterprise SDK via Polar.sh ($990/yr per fund) ➔](https://polar.sh/DealShield/subscriptions)**
+**[Unlock the Fund Enterprise SDK via Polar.sh  ➔](https://buy.polar.sh/polar_cl_8Y7Gc3MDJRUYNZviHOaOJYN8R4bWSU6bKCVqd2HYZnr)**
 
 *(Provides access to the private `dealshield-enterprise` Git repository containing PDF vector stripping, Financial NLP, and Offline License Validator).*
